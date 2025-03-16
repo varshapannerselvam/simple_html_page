@@ -1,0 +1,184 @@
+body{
+    background-image: url(http://wallpapercave.com/wp/zAaujcJ.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+}
+.back{
+    background-color: red;
+    width: 700px;
+    margin: 6rem;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display:inline;
+    margin-bottom: 40px;
+
+}
+.e1{
+    margin-left: 4cm;
+    position: absolute;
+    font-size: xx-large;
+    font-weight: bold ;
+    color: orangered;
+    margin-top: 1cm;
+}
+.e2{
+    margin-left: 18cm;
+    position: absolute;
+    font-size: xx-large;
+    font-weight: bold ;
+    margin-top: 2cm;
+    color: orangered;
+    margin-top: 1cm;
+}
+table{
+    background-color: rgb( 0,0,0,0.6);
+    width:70rem;
+    height: 45rem;
+    margin-left: 8rem;
+    margin-top: -1.15rem;
+}
+.img1{
+    height: 9rem;
+    width: 12rem;
+    background-image: url(https://demotix.com/wp-content/uploads/2019/08/S.-P.-Balasubrahmanyam.jpg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 9rem;
+    margin-top: 6rem;
+}
+.name1{
+    margin-top: 10rem;
+    margin-left: 5rem;
+    color: white;
+}
+.img2{
+    height: 9rem;
+    width: 10rem;
+    background-image: url(https://cdn.wallpapersafari.com/19/97/3rfT4V.jpg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 10rem;
+    margin-top: 20rem;
+}
+.name2{
+    margin-top: 10rem;
+    margin-left: 3rem;
+    color: white;
+}
+.img3{
+    height: 9rem;
+    width: 10rem;
+    background-image: url(https://c.saavncdn.com/828/Vijay-Prakash-Tamil-Superhits-Tamil-2022-20220926191057-500x500.jpg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 25rem;
+    margin-top: 6rem;
+}
+.name3{
+    margin-top: 10rem;
+    margin-left: 3rem;
+    color: white;
+}
+.img4{
+    height: 8rem;
+    width: 10rem;
+    background-image: url(http://www.behindwoods.com/tamil-movies-cinema-news-15/images/anirudh-wishes-kuralarasan-an-awesome-musical-debut-photos-pictures-stills.jpg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 25rem;
+    margin-top: 20rem;
+}
+.name4{
+    margin-top: 10rem;
+    margin-left: 3rem;
+    color: white;
+}
+.img5{
+    height: 10rem;
+    width: 10rem;
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/B14ygR97xuS._SL1000_.jpg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 18rem;
+    margin-top: 32rem;
+}
+.name5{
+    margin-top: 10rem;
+    margin-left: 3rem;
+    color: white;
+}
+.img6{
+    height: 10rem;
+    width: 10rem;
+    background-image: url(https://nettv4u.com/fileman/Uploads/Top-Ten-Best-Female-Playback-Singers-In-Kollywood/shreya_ghoshal.jpg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 48rem;
+    margin-top: 6rem;
+}
+.name6{
+    margin-top: 10rem;
+    margin-left: 2rem;
+    color: white;
+}
+.img7{
+    height: 9rem;
+    width: 10rem;
+    background-image: url(https://tamil.samayam.com/photo/msid-62271858,width-473,resizemode-4/tamil-cinema/movie-news/veteran-singer-k-s-chitra-bags-harivarasanam-award.jpg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 65rem;
+    margin-top: 7rem;
+}
+.name7{
+    margin-top: 10rem;
+    margin-left: 3rem;
+    color: white;
+}
+.img8{
+    height: 9rem;
+    width: 10rem;
+    background-image: url(https://th.bing.com/th/id/R.cd35c5ea41fa33f82d8d46805a8aac7e?rik=RkfAu3vKcXtncQ&riu=http%3a%2f%2fwww.india-forums.com%2fbollywood%2fimages%2fuploads%2f7E3_jklki.jpg&ehk=NrjYKRQ6DgHqxOBB%2f8T8Q7a8Kwx%2bJz1q0cOwDPFSmXQ%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1);
+    background-size: cover;
+    position: absolute;
+    margin-left: 48rem;
+    margin-top: 20rem;
+}
+.name8{
+    margin-top: 10rem;
+    margin-left: 3rem;
+    color: white;
+}
+.img9{
+    height: 8rem;
+    width: 10rem;
+    background-image: url(https://i.ytimg.com/vi/HSRzWSG34yg/maxresdefault.jpg);
+    background-size: cover;
+    position: absolute;
+    margin-left: 65rem;
+    margin-top: 20rem;
+}
+.name9{
+    margin-top: 10rem;
+    margin-left: 3rem;
+    color: white;
+}
+.img10{
+    height: 10rem;
+    width: 10rem;
+    background-image: url(https://static.toiimg.com/photo/69553178.cms);
+    background-size: cover;
+    position: absolute;
+    margin-left: 55rem;
+    margin-top: 32rem;
+}
+.name10{
+    margin-top: 10rem;
+    margin-left: 3rem;
+    color: white;
+}
